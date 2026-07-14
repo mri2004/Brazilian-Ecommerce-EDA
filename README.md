@@ -1,4 +1,3 @@
-# Brazilian-Ecommerce-EDA
 # Brazilian E-Commerce Exploratory Data Analysis
 
 ## Overview
